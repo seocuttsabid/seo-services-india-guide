@@ -1,6 +1,7 @@
 # SEO Services India Guide
 
 Welcome to the **SEO Services India Guide**, an educational repository created to help businesses, marketers, developers, and website owners understand modern Search Engine Optimization (SEO).
+
 [SEO Services India](https://seocutts.com/)
 
 The goal of this repository is to explain SEO concepts in a practical and easy-to-understand way while following current best practices.
